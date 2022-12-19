@@ -11,7 +11,6 @@ Clique [aqui](https://rocketnoteslb.netlify.app/) para acessar a aplicação!
 Clone o projeto e acesse a pasta
 
 git clone https://github.com/olucasbrum/rocketMovies-api
-Siga os passos abaixo
 
 # Instale as dependências
 
